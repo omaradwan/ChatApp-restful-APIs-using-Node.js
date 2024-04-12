@@ -16,6 +16,7 @@ This is a chat application built using Node.js, Express.js, MongoDB with Mongoos
 
 
 ## Getting Started
-Clone the repository to your local machine.
-Install the necessary dependencies using `npm install`.
+- Clone the repository to your local machine.
+- Install the necessary dependencies using `npm install`.
+
 
