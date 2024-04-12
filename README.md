@@ -1,4 +1,4 @@
-### Chat Application
+## Chat Application
 
 This is a chat application built using Node.js, Express.js, MongoDB with Mongoose, and WebSocket communication using Socket.io. It supports private chat between users and group chat with them and admins in group chat can create links and send them to other users to be able to chat in the group.
 
