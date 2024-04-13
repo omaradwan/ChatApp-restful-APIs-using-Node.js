@@ -12,7 +12,7 @@ This is a chat application built using Node.js, Express.js, MongoDB with Mongoos
 - **Real-time Messaging:** Leveraged socket.io to facilitate websocket requests, ensuring real-time delivery of messages to recipients.
 
 ## API Documentaion
-For detailed documentation on the API endpoints, request and response structures, please refer to the [API documentation]([link_to_your_documentation](https://documenter.getpostman.com/view/31776215/2sA3Bj7DMj)). You'll find descriptions and examples for each endpoint to help you get started with the API.
+For detailed documentation on the API endpoints, request and response structures, please refer to the [API documentation]([https://documenter.getpostman.com/view/31776215/2sA3Bj7DMj])). You'll find descriptions and examples for each endpoint to help you get started with the API.
 
 
 
